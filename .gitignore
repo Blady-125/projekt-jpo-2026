@@ -1,0 +1,12 @@
+#Pliki wykonywalne
+
+*.exe
+
+#Pliki tymczasowe JSON komunikacji z AI
+
+request.json
+response.json
+
+#Opcjonalnie: biblioteka json (jeśli nie chcesz jej w repo)
+
+json.hpp
