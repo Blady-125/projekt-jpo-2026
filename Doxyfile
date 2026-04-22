@@ -1,0 +1,20 @@
+# Nazwa projektu
+PROJECT_NAME           = "Foto-Planer AI"
+
+# Gdzie ma się pojawić dokumentacja (stworzy folder doc)
+OUTPUT_DIRECTORY       = doc
+
+# Jakie pliki ma skanować
+INPUT                  = main.cpp
+
+# Czy ma dokumentować wszystko (nawet to bez komentarzy)
+EXTRACT_ALL            = YES
+
+# Generuj wersję przeglądarkową (HTML)
+GENERATE_HTML          = YES
+
+# Nie generuj wersji do druku (LaTeX) - zaoszczędzi to czas
+GENERATE_LATEX         = NO
+
+# Język dokumentacji
+OUTPUT_LANGUAGE        = Polish

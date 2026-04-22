@@ -1,0 +1,21 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"class_ollama_client.html":[0,0,0],
+"class_ollama_client.html#ac164a69d3c0f9ccae7a11f4578e5eacc":[0,0,0,0],
+"class_photo_app.html":[0,0,1],
+"class_photo_app.html#acaccdbc3d2f27ea12f6fb765f8c36933":[0,0,1,0],
+"classes.html":[0,1],
+"files.html":[1,0],
+"functions.html":[0,3,0],
+"functions_func.html":[0,3,1],
+"globals.html":[1,1,0],
+"globals_func.html":[1,1,1],
+"globals_type.html":[1,1,2],
+"hierarchy.html":[0,2],
+"index.html":[],
+"main_8cpp.html":[1,0,0],
+"main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[1,0,0,3],
+"main_8cpp.html#ab701e3ac61a85b337ec5c1abaad6742d":[1,0,0,2],
+"pages.html":[]
+};
