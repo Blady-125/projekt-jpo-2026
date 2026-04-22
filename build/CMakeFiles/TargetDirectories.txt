@@ -1,0 +1,5 @@
+C:/Users/Admin/Desktop/Teleinformatyka/Semestr 4/JPO/Projekt/build/CMakeFiles/FotoPlaner.dir
+C:/Users/Admin/Desktop/Teleinformatyka/Semestr 4/JPO/Projekt/build/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Teleinformatyka/Semestr 4/JPO/Projekt/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/Desktop/Teleinformatyka/Semestr 4/JPO/Projekt/build/CMakeFiles/FotoPlaner_autogen_timestamp_deps.dir
+C:/Users/Admin/Desktop/Teleinformatyka/Semestr 4/JPO/Projekt/build/CMakeFiles/FotoPlaner_autogen.dir
