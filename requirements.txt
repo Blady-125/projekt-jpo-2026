@@ -1,0 +1,15 @@
+WYMAGANIA SYSTEMOWE I BIBLIOTEKI:
+
+1. Środowisko: MSYS2 (UCRT64)
+2. Kompilator: GCC/G++ (MinGW-w64) wersja min. 11.2
+3. System budowania: CMake wersja min. 3.10
+4. Framework GUI: Qt6 (paczka: mingw-w64-ucrt-x86_64-qt6-static lub qt6-base)
+5. Model AI: Ollama (z zainstalowanym modelem llama3)
+6. Narzędzia sieciowe: curl (dostępny w systemie Windows/Linux)
+7. Biblioteka JSON: nlohmann/json (plik json.hpp dołączony do projektu)
+
+KOMENDY INSTALACYJNE (MSYS2 UCRT64):
+pacman -S mingw-w64-ucrt-x86_64-gcc
+pacman -S mingw-w64-ucrt-x86_64-cmake
+pacman -S mingw-w64-ucrt-x86_64-qt6-base
+pacman -S mingw-w64-ucrt-x86_64-doxygen
